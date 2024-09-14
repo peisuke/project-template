@@ -1,0 +1,8 @@
+{
+    "project_name": "project",
+    "description": "A sample project",
+    "version": "0.0.1",
+    "author_name": "peisuke <peisuke.com@gmail.com>",
+    "python_version": "3.12",
+    "libraries": "numpy pandas requests scikit-learn matplotlib jupyter"
+}
